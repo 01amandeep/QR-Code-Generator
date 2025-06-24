@@ -38,5 +38,4 @@ python app.py -w
 
 ## Authors
 
-* [Mantresh Kumar | RA2311003011417](https://github.com/mantreshkhurana)
-* Arpit Mohan Saxena | RA2311003011378
+* Aman Deep Singh
